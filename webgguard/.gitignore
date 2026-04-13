@@ -1,0 +1,12 @@
+# Backend
+backend/.env
+backend/webgguard
+
+# Frontend
+frontend/.env
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
